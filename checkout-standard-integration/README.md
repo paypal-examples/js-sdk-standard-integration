@@ -16,4 +16,4 @@ This integration sets up online payment options using the PayPal JavaScript SDK.
                                                                             
 ### Documentation: 
 1. Standard Integration: https://developer.paypal.com/docs/business/checkout/set-up-standard-payments/
-2. JavaScript SDK reference: https://deåveloper.paypal.com/docs/business/javascript-sdk/javascript-sdk-reference/
+2. JavaScript SDK reference: https://developer.paypal.com/docs/business/javascript-sdk/javascript-sdk-reference/

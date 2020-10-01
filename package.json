@@ -1,7 +1,7 @@
 {
-  "name": "codetalks",
+  "name": "js-sdk-standard-integration",
   "version": "1.0.0",
-  "description": "",
+  "description": "A demo of how JS SDK works for standard checkout integration",
   "main": "index.js",
   "scripts": {
     "start": "http-server"
@@ -10,5 +10,20 @@
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.12.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paypal-examples/js-sdk-standard-integration.git"
+  },
+  "keywords": [
+    "paypal",
+    "js",
+    "sdk",
+    "checkout",
+    "standard-integration"
+  ],
+  "bugs": {
+    "url": "https://github.com/paypal-examples/js-sdk-standard-integration/issues"
+  },
+  "homepage": "https://github.com/paypal-examples/js-sdk-standard-integration#readme"
 }

@@ -8,7 +8,7 @@ This integration sets up online payment options using the PayPal JavaScript SDK.
 ![Demo](./src/img/demo.gif)
 
 ### How to run locally
-1. Clone the repo  `git clone git@github.com:paypal/CodeTalks.git`
+1. Clone the repo  `git clone git@github.com:paypal-examples/js-sdk-standard-integration.git`
 2. Run `npm install`
 3. Run `npm start`
 4. Navigate to `http://127.0.0.1:8080/`

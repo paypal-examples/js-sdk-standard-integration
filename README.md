@@ -2,10 +2,14 @@
 
 This integration sets up online payment options using the PayPal JavaScript SDK. The JavaScript SDK displays relevant, PayPal-supported payment methods on your page, which gives your buyers a personalized and streamlined checkout experience.
 
-  
+
+See a [hosted version](https://paypal-examples.github.io/js-sdk-standard-integration/) of the sample or fork a copy on [codesandbox.io](https://githubbox.com/paypal-examples/js-sdk-standard-integration/tree/master)
+
+ 
+
 ### Demo
 
-![Demo](./src/img/demo.gif)
+![Demo](./client/img/demo.gif)
 
 ### How to run locally
 1. Clone the repo  `git clone git@github.com:paypal-examples/js-sdk-standard-integration.git`

@@ -21,3 +21,4 @@ See a [hosted version](https://paypal-examples.github.io/js-sdk-standard-integra
 ### Documentation: 
 1. Standard Integration: https://developer.paypal.com/docs/business/checkout/set-up-standard-payments/
 2. JavaScript SDK reference: https://developer.paypal.com/docs/business/javascript-sdk/javascript-sdk-reference/
+

@@ -1,3 +1,5 @@
+/* eslint-disable consistent-return, new-cap, no-alert, no-console */
+
 paypal.Buttons({
     createOrder: function (data, actions) {
         return actions.order.create({

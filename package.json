@@ -4,12 +4,12 @@
   "description": "A demo of how JS SDK works for standard checkout integration",
   "main": "index.js",
   "scripts": {
-    "start": "http-server"
+    "start": "node server/index.js"
   },
   "author": "Shruti Kapoor",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^0.12.3"
+    "express": "^4.17.1"
   },
   "repository": {
     "type": "git",

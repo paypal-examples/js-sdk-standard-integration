@@ -1,0 +1,32 @@
+body {
+  font-family: "Roboto", sans-serif;
+  width: 312px;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+  background: #ffffff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 65px;
+  font-weight: bold;
+}
+
+.item {
+  height: 500px;
+}
+.small {
+  height: 250px;
+}
+
+.caption {
+  font-size: 11px;
+}
+
+#paypal-button-container{
+  margin: 30px 0;
+}
